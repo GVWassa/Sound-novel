@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/1- First time in the office.unity
+- path: Assets/1-MAIN_MENU/MENU.unity
   isLoaded: 1
   isActive: 1
