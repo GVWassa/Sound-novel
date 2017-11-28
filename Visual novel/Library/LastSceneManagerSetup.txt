@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/1-MAIN_MENU/MENU.unity
+- path: Assets/2-LIVING_ROOM/LIVING_ROOM.unity
   isLoaded: 1
   isActive: 1
