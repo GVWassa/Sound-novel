@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/2-LIVING_ROOM/LIVING_ROOM.unity
+- path: Assets/NEW CONCEPT/Try.unity
   isLoaded: 1
   isActive: 1

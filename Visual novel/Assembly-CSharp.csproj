@@ -46,22 +46,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\1-MAIN_MENU\CREDITS\CREDITS.cs" />
-     <Compile Include="Assets\1-MAIN_MENU\CREDITS\CreditsMENU.cs" />
-     <Compile Include="Assets\1-MAIN_MENU\QUIT\Quit.cs" />
-     <Compile Include="Assets\1-MAIN_MENU\StartGame.cs" />
-     <Compile Include="Assets\2-LIVING_ROOM\dialogue system\Dialogue.cs" />
-     <Compile Include="Assets\2-LIVING_ROOM\dialogue system\Dialogue1.cs" />
-     <Compile Include="Assets\2-LIVING_ROOM\dialogue system\DialogueManager.cs" />
-     <Compile Include="Assets\2-LIVING_ROOM\dialogue system\DialogueTrigger.cs" />
-     <Compile Include="Assets\2-LIVING_ROOM\dialogue system\makeitEnabled.cs" />
-     <Compile Include="Assets\Scripts\Not-used-Cameramvt.cs" />
-     <Compile Include="Assets\Scripts\rotatemouse.cs" />
-     <None Include="Assets\USTENSILES-FONTS\signature_of_the_ancient\LICENSE REQUEST.txt" />
-     <None Include="Assets\USTENSILES-FONTS\Dancing_Script\OFL.txt" />
-     <None Include="Assets\USTENSILES-FONTS\the_blacklist\LICENSE REQUEST.txt" />
-     <None Include="Assets\USTENSILES-FONTS\License Purchasing.txt" />
-     <None Include="Assets\USTENSILES-FONTS\Courgette\OFL.txt" />
+     <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\Enable.cs" />
+     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CREDITS.cs" />
+     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CreditsMENU.cs" />
+     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\QUIT\Quit.cs" />
+     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\StartGame.cs" />
+     <Compile Include="Assets\OLD CONCEPT\Scripts\Not-used-Cameramvt.cs" />
+     <Compile Include="Assets\OLD CONCEPT\Scripts\rotatemouse.cs" />
+     <Compile Include="Assets\OLD CONCEPT\dialogue system\Dialogue.cs" />
+     <Compile Include="Assets\OLD CONCEPT\dialogue system\DialogueManager.cs" />
+     <Compile Include="Assets\OLD CONCEPT\dialogue system\DialogueTrigger.cs" />
+     <Compile Include="Assets\OLD CONCEPT\dialogue system\makeitEnabled.cs" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\signature_of_the_ancient\LICENSE REQUEST.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Dancing_Script\OFL.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\the_blacklist\LICENSE REQUEST.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\License Purchasing.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Courgette\OFL.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

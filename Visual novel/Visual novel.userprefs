@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2-LIVING_ROOM/DialogueManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Downloads/Weave V2 2/Assets/video/PlayVideo.cs">
     <Files>
-      <File FileName="Assets/2-LIVING_ROOM/DialogueManager.cs" Line="27" Column="3" />
-      <File FileName="Assets/2-LIVING_ROOM/Dialogue.cs" Line="17" Column="1" />
-      <File FileName="Assets/2-LIVING_ROOM/DialogueTrigger.cs" Line="24" Column="2" />
+      <File FileName="Assets/NEW CONCEPT/OfficeEntrance/Enable.cs" Line="18" Column="3" />
+      <File FileName="Assets/OLD CONCEPT/dialogue system/DialogueManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/OLD CONCEPT/dialogue system/DialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="../../../../Downloads/Weave V2 2/Assets/video/PlayVideo.cs" Line="10" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
