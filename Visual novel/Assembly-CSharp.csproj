@@ -46,7 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\Enable.cs" />
+     <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\Mydialogue.cs" />
+     <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\MydialogueSystem_notUsed.cs" />
      <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CREDITS.cs" />
      <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CreditsMENU.cs" />
      <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\QUIT\Quit.cs" />
