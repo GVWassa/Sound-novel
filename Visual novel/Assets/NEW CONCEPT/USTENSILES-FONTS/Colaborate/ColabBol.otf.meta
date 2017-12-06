@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ac79e6135d754aebb8b1600c7ed010a
+timeCreated: 1512489716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colaborate-Bold
+  fontNames:
+  - Colaborate-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

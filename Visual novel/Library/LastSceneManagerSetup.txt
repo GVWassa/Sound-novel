@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NEW CONCEPT/Try.unity
+- path: Assets/NEW CONCEPT/MAIN_MENU/MENU.unity
   isLoaded: 1
   isActive: 1

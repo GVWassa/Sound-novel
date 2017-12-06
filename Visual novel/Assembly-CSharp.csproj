@@ -46,12 +46,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ContractButton.cs" />
+     <Compile Include="Assets\LoadScene.cs" />
+     <Compile Include="Assets\NEW CONCEPT\MAIN_MENU\CREDITS\CREDITS.cs" />
+     <Compile Include="Assets\NEW CONCEPT\MAIN_MENU\CREDITS\CreditsMENU.cs" />
+     <Compile Include="Assets\NEW CONCEPT\MAIN_MENU\Presentation\PresentationName.cs" />
+     <Compile Include="Assets\NEW CONCEPT\MAIN_MENU\QUIT\Quit.cs" />
+     <Compile Include="Assets\NEW CONCEPT\MAIN_MENU\StartGame.cs" />
      <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\Mydialogue.cs" />
      <Compile Include="Assets\NEW CONCEPT\OfficeEntrance\MydialogueSystem_notUsed.cs" />
-     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CREDITS.cs" />
-     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\CREDITS\CreditsMENU.cs" />
-     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\QUIT\Quit.cs" />
-     <Compile Include="Assets\OLD CONCEPT\1-MAIN_MENU\StartGame.cs" />
      <Compile Include="Assets\OLD CONCEPT\Scripts\Not-used-Cameramvt.cs" />
      <Compile Include="Assets\OLD CONCEPT\Scripts\rotatemouse.cs" />
      <Compile Include="Assets\OLD CONCEPT\dialogue system\Dialogue.cs" />
@@ -59,6 +62,8 @@
      <Compile Include="Assets\OLD CONCEPT\dialogue system\DialogueTrigger.cs" />
      <Compile Include="Assets\OLD CONCEPT\dialogue system\makeitEnabled.cs" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\signature_of_the_ancient\LICENSE REQUEST.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Calendas-Plus-Regular\Webfont\Calendas-Plus-Regular-Webfont\generator_config.txt" />
+     <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Colaborate\Ralph Oliver du Carrois License.txt" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Dancing_Script\OFL.txt" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\the_blacklist\LICENSE REQUEST.txt" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\License Purchasing.txt" />

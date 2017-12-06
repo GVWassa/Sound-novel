@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadScene.cs">
     <Files>
-      <File FileName="Assets/NEW CONCEPT/OfficeEntrance/Enable.cs" Line="1" Column="1" />
-      <File FileName="Assets/OLD CONCEPT/dialogue system/DialogueManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/OLD CONCEPT/dialogue system/DialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/ContractButton.cs" Line="30" Column="1" />
+      <File FileName="Assets/LoadScene.cs" Line="20" Column="6" />
+      <File FileName="Assets/NEW CONCEPT/MAIN_MENU/StartGame.cs" Line="24" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

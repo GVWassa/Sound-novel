@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6840f00908cf5484c99e155a64c43c03
+timeCreated: 1512489716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Colaborate-Thin
+  fontNames:
+  - Colaborate-Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
