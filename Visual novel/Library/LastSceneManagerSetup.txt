@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NEW CONCEPT/MAIN_MENU/MENU.unity
+- path: Assets/NEW CONCEPT/4-BossRDV/RudBoss/RencontreAvecleboss.unity
   isLoaded: 1
   isActive: 1
