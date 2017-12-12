@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BackEntrance.cs" />
      <Compile Include="Assets\ContractButton.cs" />
      <Compile Include="Assets\LoadScene.cs" />
      <Compile Include="Assets\NEW CONCEPT\1-MAIN_MENU\CREDITS\CREDITS.cs" />
@@ -61,7 +62,9 @@
      <Compile Include="Assets\OLD CONCEPT\dialogue system\DialogueManager.cs" />
      <Compile Include="Assets\OLD CONCEPT\dialogue system\DialogueTrigger.cs" />
      <Compile Include="Assets\OLD CONCEPT\dialogue system\makeitEnabled.cs" />
+     <Compile Include="Assets\RencontreAngelica.cs" />
      <Compile Include="Assets\RencontreBoss.cs" />
+     <Compile Include="Assets\multiplechoiceScript.cs" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\signature_of_the_ancient\LICENSE REQUEST.txt" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Calendas-Plus-Regular\Webfont\Calendas-Plus-Regular-Webfont\generator_config.txt" />
      <None Include="Assets\NEW CONCEPT\USTENSILES-FONTS\Colaborate\Ralph Oliver du Carrois License.txt" />
