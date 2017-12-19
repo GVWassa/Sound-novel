@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NEW CONCEPT/6-RecontreAssistant/RencontreEnj.unity
+- path: Assets/NEW CONCEPT/7-Office entrance again/OfficeEntranceTwice.unity
   isLoaded: 1
   isActive: 1
